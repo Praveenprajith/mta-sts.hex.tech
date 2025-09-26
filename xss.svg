@@ -1,2 +1,1 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Hacker -1 <br> </title><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red"
-          onclick="alert('XSS!')" /></svg>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Hacker1</title><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" onclick="alert('XSS!')" /></svg>
